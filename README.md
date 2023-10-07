@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chetan garg</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan-6468&label=Profile%20views&color=0e75b6&style=flat" alt="chetan-6468" /> </p>
 
- <img src="https://github.com/Chetan-6468/Chetan-6468/assets/117968713/32f286ef-b7dd-4af9-a8e1-2cd86bbf7ddd" alt="Coding GIF" width="400" align="right">
- 
+ <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400" align="right">
+</div>
 - 🔭 I’m currently working on [hacking tool project](https://github.com/Chetan-6468/all_hacking_tool_website)
 
 - 👯 I’m looking to collaborate on **Front-end developer**
